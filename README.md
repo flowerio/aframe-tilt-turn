@@ -1,6 +1,6 @@
 # aframe-tilt-turn
 
-Tilt your head or device to intuitively rotate [A-Frame](http://aframe.io) VR scenes.  
+Tilt your head or device to intuitively rotate [A-Frame](http://aframe.io) VR scenes. 
 
 Have you ever been comfortably seated in Cardboard VR, and realized you would have to stand up and turn around to look at something behind you? Well, despair no more, hold your head up high, and give it a jaunty tilt to the left and right. aframe-tilt-turn has you covered.  
 
