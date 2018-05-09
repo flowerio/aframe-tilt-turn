@@ -8,6 +8,8 @@ Mobile tools from Fasility: twoway-motion | tilt-turn
 
 ![Sherlock's Apartment](https://fasility.com/components/tilt-turn/demos/sherlock-holmes.gif)
 
+![gif](https://fasility.com/components/tilt-turn/demos/sherlock-holmes.gif)
+
 ## Demos
 
 - [Sherlock Holmes' Apartment by 3Dio](https://fasility.com/components/tilt-turn/demos/sherlock-holmes.html)
