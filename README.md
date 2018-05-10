@@ -14,14 +14,14 @@ Mobile tools from Fasility: twoway-motion | tilt-turn
 
 ## Demos
 
-- [Sherlock Holmes' Apartment by 3Dio](https://fasility.com/components/tilt-turn/demos/sherlock-holmes.html)
+- [Sherlock Holmes' Apartment by 3dio](https://fasility.com/components/tilt-turn/demos/sherlock-holmes.html)
 
 Tilt a little to turn a little, tilt a lot to turn a lot.   
 Tilt threshold, turn speed, and max speed are adjustable.  
 
 ## Usage 
 
-Easy to use and adjustable! Prevents the awkwardness of asking people to stand up and turn their bodies around when they are effectively blindfolded with a Cardboard headset. Works outside Cardboard mode as well, so you can easily tilt your device to look around without swiping. Together with twoway-motion, provides a super intuitive way for mobile users to get around VR scenes, with or without a VR headset.  
+Easy to use! Prevents the awkwardness of asking people to stand up and turn their bodies around when they are effectively blindfolded with a Cardboard headset. Works outside Cardboard mode as well, so you can easily tilt your device to look around without swiping. Together with twoway-motion, provides a super intuitive way for mobile users to get around VR scenes, with or without a VR headset.  
 
 Make sure you are using A-Frame 0.7.0 or later. Then include aframe-tilt-turn.js in your HTML:
 ```html
@@ -46,7 +46,7 @@ Then attach it to your `<a-camera>`:
 ## Technical Details
 
 - This component detects camera angle on the `z axis`. 
-- It auto-rotates with A-Frame's built-in `Look Controls`, using the `yawObject.rotation.y`.
+- It auto-rotates with A-Frame's built-in `look-controls`, using the `yawObject.rotation.y`.
 - Has no effect on desktop or Oculus/Vive scenes. Works only on mobile devices via `AFRAME.utils.isMobile()`. 
 
 ## Credits
